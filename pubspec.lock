@@ -41,6 +41,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.17.0"
+  controller:
+    dependency: "direct main"
+    description:
+      path: "identity/controller"
+      relative: true
+    source: path
+    version: "1.0.0"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -49,6 +56,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+  entity:
+    dependency: transitive
+    description:
+      path: "identity/entity"
+      relative: true
+    source: path
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:
@@ -91,6 +105,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
+  local:
+    dependency: "direct main"
+    description:
+      path: "identity/local"
+      relative: true
+    source: path
+    version: "1.0.0"
   matcher:
     dependency: transitive
     description:
@@ -123,6 +144,20 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.2"
+  remote:
+    dependency: "direct main"
+    description:
+      path: "identity/remote"
+      relative: true
+    source: path
+    version: "1.0.0"
+  repository:
+    dependency: "direct main"
+    description:
+      path: "identity/repository"
+      relative: true
+    source: path
+    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -176,6 +211,20 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.16"
+  ui:
+    dependency: "direct main"
+    description:
+      path: "identity/ui"
+      relative: true
+    source: path
+    version: "1.0.0"
+  usecase:
+    dependency: "direct main"
+    description:
+      path: "identity/usecase"
+      relative: true
+    source: path
+    version: "1.0.0"
   vector_math:
     dependency: transitive
     description:

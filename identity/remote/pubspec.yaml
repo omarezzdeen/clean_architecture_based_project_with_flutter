@@ -1,7 +1,7 @@
 name: remote
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+publish_to: none
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  repository:
+    path: ../repository
 
 dev_dependencies:
   flutter_test:
