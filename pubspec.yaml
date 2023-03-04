@@ -26,14 +26,16 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
 
+  get_it: ^7.2.0
+  shared_preferences: ^2.0.6
 
   # This is our modular
-
   # identity
+  identity:
   ui:
     path: identity/ui
-  controller:
-    path: identity/controller
+  viewModel:
+    path: identity/viewModel
   local:
     path: identity/local
   remote:
@@ -49,6 +51,8 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  injectable_generator: ^2.1.4
+  build_runner: ^2.3.3
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

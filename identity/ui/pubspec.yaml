@@ -10,8 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  controller:
-    path: ../controller
+  get_it: ^7.2.0
+  viewModel:
+    path: ../viewModel
 
 dev_dependencies:
   flutter_test:
