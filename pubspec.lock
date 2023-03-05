@@ -311,22 +311,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.3.6"
-  injectable:
-    dependency: transitive
-    description:
-      name: injectable
-      sha256: "7dab7d341feb40a0590d9ff6261aea9495522005e2c6763f9161a4face916f7b"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.0"
-  injectable_generator:
-    dependency: "direct dev"
-    description:
-      name: injectable_generator
-      sha256: b206de637c1960007b0beebe447a6ee3cf30c9e5f14542083024a9d0c49a7a09
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.4"
   io:
     dependency: transitive
     description:
@@ -352,7 +336,7 @@ packages:
     source: hosted
     version: "4.8.0"
   json_serializable:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: json_serializable
       sha256: dadc08bd61f72559f938dd08ec20dbfec6c709bba83515085ea943d2078d187a
@@ -502,14 +486,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
-  recase:
-    dependency: transitive
-    description:
-      name: recase
-      sha256: e4eb4ec2dcdee52dcf99cb4ceabaffc631d7424ee55e56f280bc039737f89213
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.1.0"
   remote:
     dependency: "direct main"
     description:
