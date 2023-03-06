@@ -8,7 +8,7 @@ import 'package:repository/src/remote_data_source.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:usecase/src/identity_repository.dart';
 import 'package:remote/src/dio_factory.dart';
-import 'package:remote/src/identity_service.dart';
+import 'package:remote/src/api/identity_service.dart';
 
 final instance = GetIt.instance;
 
