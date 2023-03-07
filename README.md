@@ -1,6 +1,9 @@
 # Clean Architecture Based Project With Flutter
 #### I'm trying to emulate the clean architecture from the clean architecture book auther by Robert Martin "Uncle Bob"
 <pre>
+
+/** This project multi modelization by features
+
 core--
      |
      |__entity
@@ -56,3 +59,6 @@ core--
                           |__values
                                   |__string_manager.dart
                                   |__values_manage.dart
+
+
+featuer^n
