@@ -2,7 +2,7 @@
 #### I'm trying to emulate the clean architecture from the clean architecture book auther by Robert Martin "Uncle Bob"
 <pre>
 
-/** This project multi modelization by features
+/** This project multi modelization by features */
 
 core--
      |
