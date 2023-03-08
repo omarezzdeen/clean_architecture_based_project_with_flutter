@@ -1,7 +1,7 @@
 # Clean Architecture Based Project With Flutter
 #### I'm trying to emulate the clean architecture from the clean architecture book auther by Robert Martin "Uncle Bob"
 
-<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" width="30%"></img> 
+<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" width="100%"></img> 
 
 <pre>
 
