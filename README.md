@@ -2,7 +2,7 @@
 #### I'm trying to emulate the clean architecture from the clean architecture book auther by Robert Martin "Uncle Bob"
 <pre>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2012%2F08%2F13%2Fthe-clean-architecture.html&psig=AOvVaw0LmhbFrOVeGROXRPnKhKGs&ust=1678359181024000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIC34KeVzP0CFQAAAAAdAAAAABAN"></img>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2012%2F08%2F13%2Fthe-clean-architecture.html&psig=AOvVaw0LmhbFrOVeGROXRPnKhKGs&ust=1678359181024000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIC34KeVzP0CFQAAAAAdAAAAABAN](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)"></img>
 
 /** This project multi modelization by features */
 
