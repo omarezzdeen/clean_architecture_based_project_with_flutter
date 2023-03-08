@@ -2,6 +2,8 @@
 #### I'm trying to emulate the clean architecture from the clean architecture book auther by Robert Martin "Uncle Bob"
 <pre>
 
+![CleanArchitecture](https://user-images.githubusercontent.com/57456722/223697389-f44d8f18-1a57-400d-b1e0-c079543065c0.jpg)
+
 /** This project multi modelization by features */
 
 core--
