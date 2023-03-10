@@ -21,11 +21,17 @@ class _IdentityService implements IdentityService {
   String? baseUrl;
 
   @override
-  Future<UserDTO> login() async {
+  Future<UserDTO> login(
+    username,
+    password,
+  ) async {
     const _extra = <String, dynamic>{};
     final queryParameters = <String, dynamic>{};
     final _headers = <String, dynamic>{};
-    final _data = <String, dynamic>{};
+    final _data = {
+      'username': username,
+      'password': password,
+    };
     final _result =
         await _dio.fetch<Map<String, dynamic>>(_setStreamType<UserDTO>(Options(
       method: 'POST',
